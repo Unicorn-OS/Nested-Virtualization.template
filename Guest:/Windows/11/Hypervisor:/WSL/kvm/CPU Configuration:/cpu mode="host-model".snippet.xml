@@ -1,0 +1,3 @@
+  <cpu mode="host-model" check="partial">
+    <topology sockets="1" dies="1" cores="2" threads="2"/>
+  </cpu>
